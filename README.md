@@ -1,0 +1,5 @@
+- 👋 Hi, I'm @ErvandProg
+- 👀 I am interested in programming
+- 🌱 I'm currently learning React.js
+- 💞️ I don't want to cooperate with anyone
+- 📫 How to reach me? ❗ NO WAY
